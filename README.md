@@ -204,9 +204,8 @@ This project is licensed under the Apache 2.0 License License - see the LICENSE 
 ## Contact
 
 For questions or collaborations, please contact:
-- Qais M. Al-Bataineh: qais.albataineh@tu-dortmund.de
-- Ahmad A. Ahmad: sema@just.edu.jo
+- Rjoub G.: grjoub@aut.edu.jo
 
 ## Acknowledgments
 
-This work was supported by [funding agencies and institutions]. We thank the reviewers for their valuable feedback that improved the quality of this research.
+This work is based on the research paper "From Prediction to Performance: Machine Learning-Guided Discovery and Validation of Cu-Doped Co₃O₄ for Enhanced Oxygen Evolution Reaction." We thank the authors for their valuable contributions to the field of Machine Learning .
