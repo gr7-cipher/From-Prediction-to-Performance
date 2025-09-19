@@ -140,7 +140,7 @@ result = optimizer.optimize(n_generations=50)
 - **Matern Kernel**: Superior log-marginal likelihood and lower prediction errors
 - **Statistical Validation**: All reported features significant (p < 0.05)
 
-## Generated Files
+##  Files
 
 ### Figures
 - `supplementary_figure_s1_correlation_pvalues.png`: Correlation matrix with statistical significance
@@ -199,7 +199,7 @@ If you use this code in your research, please cite:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 License License - see the LICENSE file for details.
 
 ## Contact
 
