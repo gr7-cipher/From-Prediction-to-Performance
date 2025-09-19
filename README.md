@@ -197,6 +197,11 @@ If you use this code in your research, please cite:
 }
 ```
 
+## Contributing
+
+Contributions are welcome! If you find a bug or have a suggestion for improvement, please open an issue or submit a pull request.
+
+
 ## License
 
 This project is licensed under the Apache 2.0 License License - see the LICENSE file for details.
